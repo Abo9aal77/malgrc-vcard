@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Alshrhan;Dr. Waleed;;;
+FN:Dr. Waleed Alshrhan
+ORG:MALGRC
+TITLE:
+TEL;TYPE=WORK,VOICE:+966562391335
+TEL;TYPE=CELL:+9665XXXXXXXX
+EMAIL;TYPE=INTERNET:waleed.s@malgrc.com
+ADR;TYPE=WORK:;;Street Address;City;State;PostalCode;Country
+URL:
+NOTE:
+END:VCARD
